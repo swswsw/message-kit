@@ -9,6 +9,8 @@ Follow the steps below to run the app
 ```bash [cmd]
 # Clone the repo
 git clone https://github.com/ephemeraHQ/message-kit
+# go to the repository
+cd message-kit
 # Go to the example folder
 cd examples/group
 # Install the dependencies
